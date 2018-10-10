@@ -1,7 +1,8 @@
 # CalendarView
 ### 引言
 日历控件在android开发中也是比较常见的一个控件,并且目前大部分开源的日历控件也已经做得很漂亮,很完善了,功能也相当丰富;
-今天这个日历控件就是我在别人的基础上进行修改了的,首先很感谢这个开源库 :https://github.com/codbking/CalendarExaple;
+今天这个日历控件就是我在别人的基础上进行修改了的,首先很感谢这个开源库:
+https://github.com/codbking/CalendarExaple;
 帮我解决了一个大问题,主要是缓存view的问题;
 ### 效果
 先来看下效果是怎么样的;
