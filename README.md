@@ -6,7 +6,7 @@ https://github.com/codbking/CalendarExaple;</br>
 帮我解决了一个大问题,主要是缓存view的问题;</br>
 ### 效果</br>
 先来看下效果是怎么样的;</br>
-![这里写图片描述](./image/aa.gif)
+![这里写图片描述](./image/aa.gif)</br>
 ##实现步骤</br>
 1,最开始我是采用viewpager+fragment+recyclerview进行编写的,这是我自己的思路,并且也已经实现了;只是滑动的时候会出现延时的效果,这个问题不知道是不是我没有做缓存的问题;</br>
 具体的代码地址:</br>
